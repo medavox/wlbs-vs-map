@@ -4,5 +4,5 @@ var settings = {
     titleBarCommunity: "My Community",
     siteUrl: "https://example.com",
     updateText : "Last updated on ",
-    lastUpdated : "04 August 2025."
+    lastUpdated : "06 August 2025."
 }
